@@ -1,0 +1,49 @@
+Warszawa
+Krakow
+Lodz
+Wroclaw
+Poznan
+Gdansk
+Szczecin
+Bydgoszcz
+Lublin
+Bialystok
+Katowice
+Gdynia
+Czestochowa
+Radom
+Sosnowiec
+Torun
+Kielce
+Gliwice
+Zabrze
+Bytom
+Olsztyn
+Bielsko-Biala
+Rzeszow
+Ruda Slaska
+Rybnik
+Tychy
+Dabrowa Gornicza
+Opole
+Elblag
+Plock
+Walbrzych
+Gorzow Wielkopolski
+Wloclawek
+Zielona Gora
+Tarnow
+Chorzow
+Koszalin
+Legnica
+Grudziadz
+Slupsk
+Jaworzno
+Jastrzebie-Zdroj
+Nowy Sacz
+Jelenia Gora
+Siedlce
+Myslowice
+Piotrkow Trybunalski
+Inowroclaw
+Lubin
