@@ -1,0 +1,1 @@
+Picks a random Polish city from a list of the 50 most populated ones, fetches its distance, doubles it and prints out the distance + how much it would take to drive from Poznan to there and from there to Poznan. Also includes a function to check if a given date falls on a workday, holiday, or weekend.
